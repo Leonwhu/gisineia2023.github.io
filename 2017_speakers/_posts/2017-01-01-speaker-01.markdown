@@ -1,6 +1,6 @@
 ---
-title: Mr. Norhizam Abdul Kadir
-name: Norhizam-Abdul-Kadir
+title: Prof. Armin Gruen
+name: Armin Gruen
 subtitle: Vice President of Growth Ecosystem Development Division, Malaysia Digital Economy Corporation (MDEC)
 layout: 2017_default
 modal-id: 1
