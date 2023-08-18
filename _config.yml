@@ -1,8 +1,7 @@
-title: Malaysian Students' Technology Conference - MSTC
+title: International Conference on Geospatial Information Science-Education, Innovation and Applicationse - GIS-EIA
 description: > # this means to ignore newlines until "baseurl:"
-  The Malaysian Students' Technology Conference (MSTC) is a student-led initiative that serves to provide 
-  a platform for students to critically discuss and learn more about present-era technological advances 
-  and issues regarding STEM topics.
+  The Geospatial Information Science-Education, Innovation and Applicationse (GIS-EIA) is an international conference aiming at promoting the connection of global education chain, talent chain, innovation chain and 
+                    industry chain in the field of geoinformatics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://msiastc.github.io" # the base hostname & protocol for your site
 # Build settings
@@ -35,3 +34,41 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# title: Malaysian Students' Technology Conference - MSTC
+# description: > # this means to ignore newlines until "baseurl:"
+#   The Malaysian Students' Technology Conference (MSTC) is a student-led initiative that serves to provide 
+#   a platform for students to critically discuss and learn more about present-era technological advances 
+#   and issues regarding STEM topics.
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "https://msiastc.github.io" # the base hostname & protocol for your site
+# # Build settings
+# markdown: kramdown
+
+# facebook:
+#   app_id: 1616519665327266
+
+# logo: "../css/2016_style/img/icon-large.png"
+
+# social: 
+#   name: Malaysian Students' Technology Conference - MSTC
+#   link: "https://www.facebook.com/malaysianstudentstechnologyconference"
+
+# google_site_verification: google3d1dfe2dc5cfa440.html
+
+# include: ['_2016_pages', '_2017_pages']
+
+# gems:
+#   - jekyll-sitemap
+#   - jekyll-seo-tag
+
+# # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# social:
+#   - title: facebook
+#     url: https://www.facebook.com/malaysianstudentstechnologyconference/
+#   - title: twitter
+#     url: https://twitter.com/mstc_2017
+
+# # Build settings
+# markdown: kramdown
+# permalink: pretty
