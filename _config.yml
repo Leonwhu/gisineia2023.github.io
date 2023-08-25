@@ -18,7 +18,7 @@ logo: "../css/2016_style/img/icon-large.png"
 
 # google_site_verification: google3d1dfe2dc5cfa440.html
 
-include: ['_2016_pages', '_2017_pages', '_2023_pages']
+include: ['_2023_pages']
 
 gems:
   - jekyll-sitemap
